@@ -41,6 +41,7 @@ namespace DuplicateCharacter
                         {
 
                             count = count + 1;
+                            int newCount=count;
                         }
                     }
                     stringBuilder.Append(String.Format("{0}={1},", InputString[i], count));
