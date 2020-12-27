@@ -129,6 +129,8 @@ namespace DuplicateCharacter
 
                 }
                 index = index + 1;
+                int countInt = index;
+                //this message is pushed
             }
 
         }
